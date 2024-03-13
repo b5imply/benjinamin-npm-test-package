@@ -2,7 +2,7 @@
 *
 
 # except for
-!dist
+!dist/*
 !package.json
 !CHANGELOG.md
 !README.md

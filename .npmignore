@@ -1,0 +1,8 @@
+# Ignore all
+*
+
+# except for
+!dist
+!package.json
+!CHANGELOG.md
+!README.md

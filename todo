@@ -1,0 +1,11 @@
+Create npm package & app - then link locally:
+    ✔ Setup package project: @done(24-03-13 16:10)
+        ✔ Setup typescript: @done(24-03-13 15:51)
+        ✔ Add react: @done(24-03-13 15:58)
+        ✔ Setup the bundler: @done(24-03-13 16:01)
+        ✔ Add test suite: @done(24-03-13 16:10)
+    ✔ Setup client project @done(24-03-13 16:18)
+☐ Upload to github & get github actions to work:
+☐ Use changesets and add publish CI:
+☐ Publish to npm:
+☐ Use npm package:

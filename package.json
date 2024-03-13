@@ -9,9 +9,11 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
-    "test": "vitest",
+    "test": "vitest run",
+    "test:dev": "vitest",
     "build": "tsup src/index.ts --format cjs,esm --dts",
-    "lint": "tsc"
+    "lint": "tsc",
+    "ci": "pnpm run lint && pnpm run test && pnpm run build"
   },
   "peerDependencies": {
     "react": "^18",

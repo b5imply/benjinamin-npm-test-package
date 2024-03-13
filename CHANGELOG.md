@@ -1,5 +1,11 @@
 # npm-test-package
 
+## 0.0.3
+
+### Patch Changes
+
+- f3d9290: Try again
+
 ## 0.0.2
 
 ### Patch Changes
